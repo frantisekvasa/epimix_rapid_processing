@@ -1,4 +1,4 @@
-# Epimix Rapid Processing
+# EPImix Rapid Processing
 
 Repository for the manuscript **Rapid processing and quantitative evaluation of structural brain scans for adaptive multimodal imaging** by František Váša, Harriet Hobday, Ryan A. Stanyard, Richard E. Daws, Vincent Giampetro, Owen O'Daly, David J. Lythgoe, Jakob Seidlitz, Stefan Skare, Steven C. R. Williams, Andre F. Marquand, Robert Leech* and James H. Cole*, _Human Brain Mapping_ (in press).
 
